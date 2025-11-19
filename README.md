@@ -15,7 +15,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/yourusername/workflow-system/graphs/commit-activity)
 
-[Features](#-features) • [Installation](#-installation) • [Documentation](#-documentation) • [Demo](#-demo) • [Contributing](#-contributing)
+<!-- [Features](#-features) • [Installation](#-installation) • [Documentation](#-documentation) • [Demo](#-demo) • [Contributing](#-contributing) --->
 
 </div>
 
